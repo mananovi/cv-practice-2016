@@ -16,7 +16,7 @@
      ([book-opencv-main])
    - Shervin Emami, Khvedchenia Ievgen, Naureen Mahmood "Mastering OpenCV with Practical Computer Vision Projects" ([book-opencv])
  
- - Лабораторные работы должны сдаваться как pull requests для этого репозитория. В pull request создайте подпапку паки students формата <surname>/lab_<lab_index>. Pull request должен содержать только с++ файл.
+ - Лабораторные работы должны сдаваться как pull requests для этого репозитория. В pull request создайте подпапку паки students формата <surname>/lab_<index>. Pull request должен содержать только с++ файл.
 
 <!-- LINKS -->
 [cc3]:          http://creativecommons.org/licenses/by-sa/3.0/
