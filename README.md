@@ -8,7 +8,7 @@
 
 ## Ресурсы
 
- - [Google-группа][list] — просьба по всем вопросам обращаться сюда.
+ - [Чат][list] — просьба по всем вопросам обращаться сюда.
  - [Таблица успеваемости][hall-of-fame]
  - Учебные материалы
    - [Описания лабораторных работ][labs]
@@ -22,7 +22,7 @@
 
 <!-- LINKS -->
 [cc3]:          http://creativecommons.org/licenses/by-sa/3.0/
-[list]:         https://groups.google.com/d/forum/opencv-course
+[list]:         https://gitter.im/alekcac/cv-practice-2016
 [hall-of-fame]: https://docs.google.com/spreadsheets/d/1UOPl31BnuFdG2KmkPHBXLAfjE9a6k9LhdlqqcaxICDM
 [labs]:         https://github.com/alekcac/cv-practice-2016/tree/master/labs
 [lections]:         https://github.com/alekcac/cv-practice-2016/tree/master/lections
