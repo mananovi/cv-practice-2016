@@ -1,5 +1,7 @@
 # Спецкурс "Computer Vision"
 
+[![Join the chat at https://gitter.im/alekcac/cv-practice-2016](https://badges.gitter.im/alekcac/cv-practice-2016.svg)](https://gitter.im/alekcac/cv-practice-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
  - Нижегородский Государственный Университет им. Н.И. Лобачевского
  - Факультет ВМК
  - **License**: Creative Commons Attribution-Share Alike 3.0 ([CC BY-SA 3.0][cc3])
