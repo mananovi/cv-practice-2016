@@ -1,1 +1,1 @@
-Лабораторные работы должны сдаваться как pull requests для этого репозитория. В pull request создайте подпапку паки students формата surname/lab_index (например, shishkov/lab_0). Pull request должен содержать только .cpp/.h файлы.
+Лабораторные работы должны сдаваться как pull requests для этого репозитория. В pull request создайте подпапку папки students формата surname/lab_index (например, shishkov/lab_0). Pull request должен содержать только .cpp/.h файлы.
